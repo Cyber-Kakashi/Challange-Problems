@@ -1,4 +1,4 @@
-# Challange-Problems
+# Challenge-Problems
 This contains all programs that i executed for practice and fun. Run these programs and have fun.
 
 How to run cpp programs on Windows/Linux:
